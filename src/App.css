@@ -1,0 +1,12 @@
+/*Navbar */
+
+.navbar-nav a{
+    font-size: 28px;
+}
+/*Login*/
+.LoginPage{
+    display: grid !important;
+    margin: 41px !important;
+    margin-inline: 504px !important;
+    row-gap: 18px !important;
+}
